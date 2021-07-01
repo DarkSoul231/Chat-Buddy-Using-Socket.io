@@ -1,4 +1,4 @@
-# Chat Buddy Using Socket.io
+# Chat Buddy
   
    TBasically it is Chat Server created by using ReactJs ExpressJs and Socket.io technologies
 
